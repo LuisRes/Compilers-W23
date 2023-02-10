@@ -1,0 +1,3 @@
+D:/JUANSCRIPT/JuanScriptMake/out/build/x64-debug/CMakeFiles/JUANCompiler.dir
+D:/JUANSCRIPT/JuanScriptMake/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/JUANSCRIPT/JuanScriptMake/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
