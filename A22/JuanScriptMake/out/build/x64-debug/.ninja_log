@@ -1,0 +1,16 @@
+# ninja log v5
+19	848	7024173569357370	build.ninja	88a438b929ecbcf4
+6	40	0	clean	8c45b54705a541e8
+7	537	6977537751767707	CMakeFiles/JUANCompiler.dir/asciitest_(1).c.obj	bab1861775883d0f
+7	950	7026882279776634	CMakeFiles/JUANCompiler.dir/Compilers.c.obj	9a76890608d6aaef
+29	972	7026882280168505	CMakeFiles/JUANCompiler.dir/MainReader.c.obj	7f09c4ca11133a91
+18	945	7026882279594957	CMakeFiles/JUANCompiler.dir/Reader.c.obj	1eec9881955b1696
+972	1562	7026882285160892	JUANCompiler.exe	35c265ee23aba360
+52	946	7026882279624962	CMakeFiles/JUANCompiler.dir/MainScanner.c.obj	64bc5038adf3b090
+40	925	7026882279624962	CMakeFiles/JUANCompiler.dir/Scanner.c.obj	8d2c03344d355c9d
+84	934	7026882279604951	CMakeFiles/JUANCompiler.dir/MainParser.c.obj	962f4e0c4a931330
+65	947	7026882279604951	CMakeFiles/JUANCompiler.dir/Parser.c.obj	ab3e85ad4e23dfcc
+8	724	7026883489894646	CMakeFiles/JUANCompiler.dir/Scanner.c.obj	8d2c03344d355c9d
+726	1395	7026883495256872	JUANCompiler.exe	35c265ee23aba360
+13	532	7026884480137015	CMakeFiles/JUANCompiler.dir/Scanner.c.obj	8d2c03344d355c9d
+535	1114	7026884484838462	JUANCompiler.exe	35c265ee23aba360

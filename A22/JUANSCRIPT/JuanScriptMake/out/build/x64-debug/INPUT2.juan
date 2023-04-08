@@ -1,6 +1,0 @@
-?JUAN calculateArea(JUAN r){
-    NAUJ PI = 3.14;
-    JUAN cubeRadius IS r*r*r;
-    JUAN area IS 4/3 * PI*cubeRadius;
-    JUAN? area;
-}
