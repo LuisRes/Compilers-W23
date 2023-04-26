@@ -1,4 +1,4 @@
-# JUAMSCRIPT
+# JUANSCRIPT
 Repository for JUANSCRIPT front-end compiler/
 JUANSCRIPT is a fictional programming language based in PHP and javascript
 Folders contain documentation and code for each component of compiler
