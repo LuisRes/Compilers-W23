@@ -1,0 +1,16 @@
+/*
+JUAN EXAMPLE FOR FACTORIAL
+*/
+<?JUAN
+	JUAN i,n,f;
+	f IS 1;
+	i IS 1;
+      JUANFULLHD 'Write a number: ';
+      JUANBALCONY(n);
+      JUANPQ(i < n){
+      	f IS f * i;
+            i IS i + 1;
+      }
+      JUANFULLHD 'Factorial: ';
+      JUANFULLHD f;
+JUAN?>

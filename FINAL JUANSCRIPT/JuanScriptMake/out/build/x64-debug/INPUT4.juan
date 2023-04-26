@@ -1,0 +1,35 @@
+/*
+A
+*/
+
+<?JUAN
+/*Constants*/
+NAUJ PI IS 3.14;
+/*Variables*/
+JUAN radius;
+JUAN finalArea;
+JUAN repeat IS 0;
+JUANPQ(repeat != 1){
+JUANFULLHD "Circle area calculator";
+JUANFULLHD "\nInsert radius: ";
+JUANBALCONY(radius);
+finalArea IS calculateArea(radius);
+IFJUAN(finalArea<3){
+JUANFULLHD "Final Area " + finalArea + "smaller than 3";
+}JUANPRIMERO(finalArea>3 && finalArea<10){
+JUANFULLHD "Final Area " + finalArea + "larger than 3 but smaller than 10";
+}JUANSEGUNDO{
+JUANFULLHD "Final Area larger than 10";
+}
+JUANFULLHD "Repeat process? [1 if yes, anything else if no] "
+JUANBALCONY(repeat);
+}
+
+/*CALCUATE AREA FUNCTION*/
+?JUAN calcuateArea(JUAN r){
+    JUAN squareRadius IS r*r;
+    JUAN area IS PI*squareRadius;
+    RETURNJUAN area;
+}
+
+JUAN?>

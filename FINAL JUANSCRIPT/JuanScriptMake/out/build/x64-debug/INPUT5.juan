@@ -1,0 +1,8 @@
+<?JUAN
+
+	?JUAN helloJUAN(){
+		JUANFULLHD "Hello JUAN";
+	}
+
+	helloJUAN();
+JUAN?>

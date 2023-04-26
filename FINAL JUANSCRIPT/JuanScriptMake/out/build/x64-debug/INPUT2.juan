@@ -1,0 +1,12 @@
+<?JUAN
+
+?JUAN calcuateVolume(JUAN r){
+	NAUJ PI IS 3.14;
+	JUAN vol IS 4.0/3.0 * PI *(r*r*r);
+	RETURNJUAN vol;
+}
+
+JUANBALCONY(rad);
+JUANFULLHD "Volume: " + calculateVolume(rad);
+
+JUAN?>
